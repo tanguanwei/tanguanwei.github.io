@@ -4,7 +4,7 @@ feature_text: |
   ## TGW
   My personal space where I talk life and producitivity.
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Hey there! I'm a student from Singapore currently focused on completing my  A levels journey while sharing handy little nuggets of wisdom I find along the way. I hope you are able to gleam some new insights from the documentation of my life here. Cheers! -TGW"
 ---
 
-Hey there! I'm a student from Singapore currently focused on completing my  A levels journey while sharing handy little nuggets of wisdom I find along the way. I hope you are able to gleam some new insights from the documentation of my life here. Cheers! -TGW
+
